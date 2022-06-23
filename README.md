@@ -14,3 +14,14 @@ Deep Freeze 8.57 - Faronics
 <p>Effectively reverse malicious modifications to your computers, for example, zero-day threats.</p>
 <p><strong>Attain License Compliance</strong></p>
 <p>Just approved applications remain, and unauthorized uses are eliminated, thereby attaining license compliance.</p>
+
+<h3>Pros:</h3>
+<ul>
+<li>It may freeze any hard disk and may revert any changes made to it in a system restart.</li>
+<li>The program functionality could be protected using a password to prevent computer users.</li>
+<li>This program is useful for the files or instances where you do not want to create modifications.</li>
+<li>When empowered, Deep Freeze restores the settings which were set up upon activation.</li>
+<li>When establishing the software, you&#8217;re prompted to specify a master password.</li>
+<li>Which you will then utilize in the long run to disable and enable the support.</li>
+<li>Worries of slowdowns malware, document congestion program</li>
+<li>Disk degradation becomes something of the past.</li>
