@@ -25,3 +25,5 @@ Faronics Deep Freeze Enterprise 8.60
 <li>Which you will then utilize in the long run to disable and enable the support.</li>
 <li>Worries of slowdowns malware, document congestion program</li>
 <li>Disk degradation becomes something of the past.</li>
+
+  For password: contact info@ubaidjafri.com
